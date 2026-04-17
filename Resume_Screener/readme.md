@@ -1,4 +1,4 @@
-# 🤖 AI Resume Screening System
+# AI Resume Screening System
 
 > **LangChain + Groq (LLaMA 3.1) + LangSmith | PDF Input → Score → Strong / Average / Weak**
 
@@ -129,7 +129,7 @@ Open `AI_Resume_Screening_System_with_Tracing.ipynb` in Jupyter and run all cell
 
 ---
 
-## 🔑 Notebook Cell Guide
+## Notebook Cell Guide
 
 | Cell | Section | What It Does |
 |---|---|---|
@@ -201,7 +201,7 @@ The `debug_vague_resume` run is tagged `debug` + `anti-hallucination-test`. It t
 
 ---
 
-## 🧠 Prompt Engineering Decisions
+##  Prompt Engineering Decisions
 
 ### Anti-Hallucination Rules (in all prompts)
 ```
